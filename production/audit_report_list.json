@@ -1,268 +1,82 @@
 [
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "War Space",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "binance",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027"
-    },
-    "stages": "<span class=\"font-semibold\">In Progress</span>"
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "NECO FUN",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 4,
+    "name": "solid white",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "binance",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "Tapioca",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "copy right",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 1,
+    "name": "project name",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "Kasta",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "wz-111",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "ASYAGRO",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "114-sp",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "karagan",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "lolin 40t",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "tiger II",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   },
   {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
+    "name": "su-130pm",
+    "projectLogo": "https://warspace.io/img/Logo.webp",
     "coverage": "Audit",
     "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
-  },
-  {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
-    "coverage": "Audit",
-    "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
-  },
-  {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
-    "coverage": "Audit",
-    "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
-  },
-  {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
-    "coverage": "Audit",
-    "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
-  },
-  {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
-    "coverage": "Audit",
-    "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
-  },
-  {
-    "name": {
-      "text": "War Space",
-      "img": "https://warspace.io/img/Logo.webp"
-    },
-    "benchmark": 3,
-    "coverage": "Audit",
-    "type": "Other",
-    "platform": {
-      "name": "ethereum",
-      "img": "https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/6ed5f/eth-diamond-black.webp"
-    },
-    "stages": "<span class=\"font-semibold\">Will be audited</span> on Mar 22, 2022",
-    "buttons": {
-      "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-      "copy": "asd"
-    }
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "In Progress"
   }
 ]

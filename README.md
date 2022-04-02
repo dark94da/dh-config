@@ -1,1 +1,1 @@
-# dehacker-config
+# dh-config

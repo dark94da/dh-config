@@ -1,20 +1,29 @@
 [
   {
-    "name": "123",
-    "projectLogo": "https://warspace.io/img/Logo.webp",
+    "name": "CheersLand",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1488033649954287618/rVfu1Ruv_400x400.jpg",
     "coverage": "Audit",
-    "type": "Other",
+    "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-    "stages": "In Progress",
-    "auditFileName": "123.pdf"
+    "stages": "Finished",
+    "auditFileName": "cheersland.pdf"
   },
    {
-    "name": "111",
-    "projectLogo": "https://warspace.io/img/Logo.webp",
+    "name": "1inch",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1481298453661691904/FdP7AvEl_400x400.jpg",
     "coverage": "Audit",
-    "type": "Other",
+    "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
-    "stages": "In Progress",
-    "auditFileName": "111.pdf"
+    "stages": "Finished",
+    "auditFileName": "1inch.pdf"
+  },
+     {
+    "name": "TrustFi",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1480638404354207751/hGCnNtNp_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "trustfi.pdf"
   }
 ]

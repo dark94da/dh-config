@@ -1,5 +1,14 @@
 [
    {
+    "name": "TARS Protocol",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1522571011186884610/wGJs7hHr_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Infrastructure",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "TARS Protocol.pdf"
+  },
+   {
     "name": "Scorefam",
     "projectLogo": "https://pbs.twimg.com/profile_images/1458943288724049927/HOpnOkmf_400x400.jpg",
     "coverage": "Audit",

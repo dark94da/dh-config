@@ -1,5 +1,14 @@
 [
    {
+    "name": "DRIVE2",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1517021432236154881/xxMtnRt9_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Gamefi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": ".pdf"
+  },
+   {
     "name": "TARS Protocol",
     "projectLogo": "https://pbs.twimg.com/profile_images/1522571011186884610/wGJs7hHr_400x400.jpg",
     "coverage": "Audit",

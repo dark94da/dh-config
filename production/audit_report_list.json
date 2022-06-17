@@ -1,5 +1,14 @@
 [
    {
+    "name": "Project Chosen",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1512330314026082305/yvRu3yMr_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Project Chosen.pdf"
+  },
+   {
     "name": "DRIVE2",
     "projectLogo": "https://pbs.twimg.com/profile_images/1517021432236154881/xxMtnRt9_400x400.jpg",
     "coverage": "Audit",

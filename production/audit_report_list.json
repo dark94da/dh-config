@@ -1,4 +1,13 @@
 [
+     {
+    "name": "VideoFi",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1588220635095789569/qfOaa7xR_400x400.jpg",
+    "coverage": "Audit",
+    "type": "X2Earn",
+    "platform": "https://pbs.twimg.com/profile_images/1228405960835813378/eH3FdBKB_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "VideoFi.pdf"
+  },
    {
     "name": "Project Chosen",
     "projectLogo": "https://pbs.twimg.com/profile_images/1512330314026082305/yvRu3yMr_400x400.jpg",
